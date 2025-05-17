@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lovrony
 - 👀 I’m interested in dinosaurs, videogames and boardgames.
-- 🌱 I’m currently learning programming.
 
 <!---
 lovrony/lovrony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
